@@ -1,0 +1,70 @@
+apple,A fruit
+banana,A yellow fruit
+grape,A small, round, purple or green fruit
+orange,A citrus fruit
+watermelon,A large green fruit with red flesh
+pineapple,A tropical fruit with a spiky exterior
+strawberry,A red fruit with tiny seeds on the outside
+blueberry,A small, blue fruit often used in pies
+mango,A tropical fruit with orange flesh
+kiwi,A small brown fruit with green flesh
+cherry,A small red fruit with a pit
+peach,A fruit with fuzzy skin and a pit
+apricot,A small orange fruit with a pit
+plum,A fruit with a smooth skin and a pit
+pear,A green or yellow fruit with a juicy interior
+nectarine,A smooth-skinned fruit similar to a peach
+pomegranate,A fruit with many seeds inside
+fig,A sweet fruit often used in desserts
+coconut,A large fruit with a hard shell and white flesh
+date,A sweet fruit often dried
+raspberry,A red or black fruit with many small drupelets
+blackberry,A dark purple fruit similar to a raspberry
+cantaloupe,A melon with orange flesh
+honeydew,A melon with green flesh
+papaya,A tropical fruit with orange flesh and black seeds
+guava,A tropical fruit with green skin and pink flesh
+lychee,A small, round fruit with white flesh
+dragonfruit,A tropical fruit with a pink or yellow skin and white or red flesh
+jackfruit,A large fruit with spiky skin and yellow flesh
+durian,A large, spiky fruit known for its strong smell
+passionfruit,A small fruit with a tough rind and seedy interior
+avocado,A fruit with green flesh and a large pit
+tomato,A red fruit often used in salads and sauces
+cucumber,A green fruit often used in salads
+pumpkin,A large orange fruit often used in pies
+squash,A fruit with a hard rind and orange or yellow flesh
+zucchini,A green fruit often used in cooking
+eggplant,A purple fruit often used in cooking
+bell pepper,A fruit that can be green, red, yellow, or orange
+chili pepper,A spicy fruit often used in cooking
+jalapeno,A small, spicy pepper
+pepper,A black spice often used in cooking
+garlic,A bulbous plant often used in cooking
+onion,A bulbous plant with a strong flavor
+ginger,A root often used in cooking and baking
+turmeric,A root often used as a spice
+cinnamon,A spice made from the bark of a tree
+vanilla,A spice derived from orchids
+clove,A spice made from the dried flower buds of a tree
+nutmeg,A spice made from the seed of a tree
+python, A type of programming language.
+hangman, A popular word guessing game.
+algorithm, A step-by-step procedure for calculations.
+computer, An electronic device for storing and processing data.
+internet, A global network of computers.
+keyboard, An input device used to type text.
+monitor, A display screen used to show output.
+mouse, A pointing device used to interact with a computer.
+printer, A device used to produce hard copies of documents.
+router, A device that forwards data packets between computer networks.
+firewall, A network security system.
+server, A computer that provides data to other computers.
+database, A structured set of data held in a computer.
+network, A group of interconnected devices.
+software, Programs and other operating information used by a computer.
+hardware, The physical parts of a computer.
+debugging, The process of finding and fixing errors in software.
+compiler, A program that translates code into machine language.
+encryption, The process of converting information into a secure format.
+protocol, A set of rules governing data exchange.
